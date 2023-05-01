@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taurusaman
 - 👀 I’m interested in competitive coding 
-- 🌱 I’m currently learning flutter and Web Dev
+- 🌱 I’m currently learning Flutter and Web Dev
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me 9672277581
 
