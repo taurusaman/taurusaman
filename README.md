@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taurusaman
 - 👀 I’m interested in competitive coding 
-- 🌱 I’m currently learning Flutter and DSA
+- 🌱 I’m currently working in Android, Flutter and DSA
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me 9672277581
 
