@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taurusaman
 - 👀 I’m interested in competitive coding 
-- 🌱 I’m currently working in Android(Kotlin Multiplatform Mobile)KMM, Flutter and DSA
+- 🌱 I’m currently working in Flutter, Springboot, Agentic AI and DSA
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me 9672277581
 
